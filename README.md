@@ -85,5 +85,5 @@ Machine Learning by Columbia University
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
 
-#### Extra
+## Extra
 This link has been added
