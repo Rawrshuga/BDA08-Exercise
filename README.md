@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](-)
+![alt text](images/shuga_icon.png)
 
 <!-- Add your details -->
 
